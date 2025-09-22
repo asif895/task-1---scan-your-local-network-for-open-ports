@@ -7,5 +7,5 @@ nmap -sV 192.168.10.137 for service version detection
 The results are saved in the "scan_results.txt"file.
 ### Open Ports and Potential Security Risks
 The scan revealed the following open ports and potential security risks:
-*Port 22:SSH:potential security include brute force attack,privilage escalation,malware upload by attacker
-*Port 135:msrpc:potential security include Remote code execution,privilage escalation
+*Port 22: SSH:potential security include brute force attack,privilage escalation,malware upload by attacker
+*Port 135: msrpc:potential security include Remote code execution,privilage escalation
